@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="5star.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_DeliveryBoy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Buy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Change_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CoverPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customer_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeliveryBoy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeliveryBoy_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeliveryBoy_Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Final.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Five_Star.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoadingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OderProduct_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderDetails_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Order_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Product_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ratings_commments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff_Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff_DeliveryBoy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff_Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff_Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update_profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
